@@ -4,7 +4,6 @@ project.lock.json
 # Visual Studio & MonoDevelop
 *.userprefs
 *.user
-.vs/
 
 # NuGet
 /packages/
